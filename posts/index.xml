@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on artist</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on artist</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Last Semester</title>
+      <link>https://example.org/posts/college/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/college/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s the final semester of college. You&amp;rsquo;re melancholic, the era&amp;rsquo;s coming to an&#xA;end. You&amp;rsquo;re gonna miss these fuckers and the awful diet. Everyone is trying to&#xA;squeeze in as much fun as possible. It&amp;rsquo;s like breakup sex: there&amp;rsquo;s almost&#xA;a desperation out of fear that it may never happen again. You&amp;rsquo;ve got a vague&#xA;vision for what the future holds. The optimist that you are, you&amp;rsquo;ve got&#xA;yourself excited about the future. You&amp;rsquo;ll have a couple of 4k monitors.&#xA;Earphones plugged in, energized, one keystroke at a time, you&amp;rsquo;ll make art.&#xA;You&amp;rsquo;ll exchange vim configs with your teammates. You&amp;rsquo;ll earn heaps about&#xA;engineering from all the super smart people around you. You&amp;rsquo;ll have whimsical&#xA;conversations with Sneha near the coffee machine. Yes, Sneha, the dorky girl&#xA;with a sharp wit, who shares some of your interests but gracefully challenges&#xA;you on your dumber inclinations (you&amp;rsquo;ll defend yourself &amp;lsquo;cause you like the&#xA;vibe). And when your social battery runs out - work from home baby. Oh and the&#xA;side projects - godalmighty - all the things you could take up with the&#xA;newfound capital, sky&amp;rsquo;s the limit, the possibilities are endless (definitely&#xA;gonna buy an arduino and a couple of raspi&amp;rsquo;s). Letsfuckinggoooo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
