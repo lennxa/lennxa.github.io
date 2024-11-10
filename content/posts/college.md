@@ -29,7 +29,7 @@ aggregating my thoughts on the differences between college and work, while
 I can still recollect. By nature, this is subjective, and I see wildly varying
 trajectories among my friends.
 
-#### Incentive
+### Incentive
 In college, any efforts made were purely for my own benefit and of my own will;
 heck, I paid to do this stuff. The more work I did, the better I felt
 - everything added to my skills. It's easy to think it'd be the same with work,
@@ -48,7 +48,7 @@ cycle). I don't feel like the trade is being made in good faith - work for pay
 waking hours are spent at work, and I like doing stuff. This whole line of
 reasoning only applies when the nature of work is _good_.
 
-#### Goals
+### Goals
 Metrics are better defined in college. At the very least, you want your grades
 to be decent. After college, everything is a little bit hazy. What should your
 baseline metric be? As far as I can tell, there are none. You must evaluate
@@ -56,7 +56,7 @@ yourself constantly, and this takes a lot of conscious effort, especially when
 your _grades_ are bad. You run the risk of going astray. It's always nice to
 have some guardrails in place.
 
-#### Growth  
+### Growth  
 There's comfort in the idea that you've got potential. Yes, right now you might
 not be doing anything worthwhile, but who cares? Soon you'll solve cancer or
 capture carbon. In college, you're always a ball of potential, but there's
@@ -68,7 +68,7 @@ At work, the ceiling for growth feels suffocating. No matter how good you are
 growth/promotions can only be sped up to an extent. This is disincentivizing.
 In essence, everything boils down to incentives.  
 
-#### Bureaucracy
+### Bureaucracy
 But there's got to be a way to hack the system, right? How did the Gates and
 Jobs move up? Were they just born rich? What even are the characteristics of
 this _system_? The system is an inefficient, inertial clusterfuck of
